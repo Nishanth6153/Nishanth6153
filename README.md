@@ -4,8 +4,8 @@
 </p>
 
 <!-- Quote -->
-<h3 align="center" style="font-style:italic; color:#187BCD;">
-  "The best way to predict the future is to invent it." — Alan Kay
+<h3 align="center" style="font-style:Montserrat; color:#187BCD;">
+  The best way to predict the future is to invent it.
 </h3>
 
 ---
