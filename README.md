@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,4,6,8&text=Nishanth%20G&fontSize=48&fontAlign=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- One-Line Quote -->
+<!-- Quote -->
 <h3 align="center" style="font-style:italic; color:#187BCD;">
-  "The future belongs to those who prepare for it today." — Malcolm X
+  "The best way to predict the future is to invent it." — Alan Kay
 </h3>
 
 ---
@@ -29,7 +29,7 @@ My philosophy: *Simple, smart, and sustainable technology for real-world impact.
 
 | **Languages** | **Frameworks & Tools** | **Focus Areas** |
 |---------------|---------------------------|-----------------|
-| ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Android](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio) | AI Systems • App Development • Sustainable Tech |
+| ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![R](https://img.shields.io/badge/-R-276DC3?logo=r) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Android](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode) | AI Systems • App Development • Sustainable Tech |
 
 </div>
 
