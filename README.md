@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="./assets/profile-card.svg" width="100%" />
-
+  <img src="./assets/profile-card.png" width="750" alt="Nishanth G Cyberpunk System ID">
 </div>
+
 
 <br>
 
