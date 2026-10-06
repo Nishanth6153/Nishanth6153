@@ -1,89 +1,183 @@
 <div align="center">
-  <img src="./assets/profile-card.png" width="750" alt="Nishanth G Cyberpunk System ID">
-</div>
 
+<img src="./assets/profile-card.png" width="850" alt="Nishanth G Cyberpunk System ID">
 
+<br>
 <br>
 
 # NISHANTH G
 
-Artificial Intelligence & Data Science student focused on building practical software systems with AI, machine learning and full-stack development.
+### Artificial Intelligence & Data Science Student • Full Stack Developer • AI/ML Enthusiast
 
-I like understanding how systems work from the ground up — from algorithms and backend architecture to deployment and performance.
+<p>
+  Building practical software systems by combining
+  <b>Artificial Intelligence</b>, <b>Machine Learning</b>,
+  <b>Data</b>, and <b>Full Stack Development</b>.
+</p>
+
+</div>
 
 ---
 
 ## ABOUT ME
 
-- B.Tech Artificial Intelligence & Data Science student
-- Minor in Full Stack Development
-- Interested in Artificial Intelligence, Machine Learning and Data Engineering
-- Building full-stack applications with modern web technologies
-- Practicing Data Structures & Algorithms regularly
-- Exploring DevOps, Docker, system design and distributed systems
-- Interested in turning ideas into usable software products
+I am a **B.Tech student specializing in Artificial Intelligence & Data Science**, with a strong interest in building practical and intelligent software systems.
+
+I enjoy working across the stack — from **data preprocessing and machine learning** to **backend APIs, frontend applications, databases, deployment, and performance**.
+
+My current focus is on strengthening my fundamentals while building real-world projects in:
+
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Full Stack Development
+- Backend Engineering
+- Docker & DevOps
+- System Design
+
+I believe in learning by building:
+
+**Understand → Design → Build → Test → Debug → Improve**
 
 ---
 
 ## TECH STACK
 
-### Programming
+### PROGRAMMING LANGUAGES
 
-![Python](https://img.shields.io/badge/Python-111820?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111820?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C%2B%2B-111820?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-111820?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111820?style=for-the-badge&logo=typescript)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
+</p>
 
-### AI / Data
+### AI / MACHINE LEARNING / DATA
 
-![Python](https://img.shields.io/badge/Python-111820?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-111820?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-111820?style=for-the-badge&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-111820?style=for-the-badge&logo=scikit-learn)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
 
-### Full Stack
+<p>
+  <img src="https://img.shields.io/badge/NumPy-111820?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-111820?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-111820?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
 
-![React](https://img.shields.io/badge/React-111820?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-111820?style=for-the-badge&logo=vite)
-![FastAPI](https://img.shields.io/badge/FastAPI-111820?style=for-the-badge&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111820?style=for-the-badge&logo=tailwindcss)
+### FRONTEND
 
-### Database / DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,typescript,tailwind,html,css" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-111820?style=for-the-badge&logo=supabase)
-![Docker](https://img.shields.io/badge/Docker-111820?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111820?style=for-the-badge&logo=githubactions)
+### BACKEND
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+</p>
+
+### DATABASE
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+### DEVOPS / TOOLS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux" />
+</p>
 
 ---
 
-## WHAT I BUILD
+## ENGINEERING FOCUS
+
+| AREA | FOCUS |
+|---|---|
+| Artificial Intelligence | Machine Learning, Neural Networks, Intelligent Systems |
+| Data Science | Data Preprocessing, Analysis, Visualization |
+| Algorithms | Data Structures & Algorithms, Problem Solving |
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
+| Backend | Python, FastAPI, REST APIs |
+| Databases | PostgreSQL, Supabase |
+| DevOps | Docker, GitHub Actions, Deployment |
+| Systems | Backend Architecture, Performance, System Design |
+
+---
+
+## FEATURED PROJECTS
+
+### SMART CNC PRODUCTION SCHEDULER
+
+An **Industry 5.0 production scheduling system** designed to intelligently schedule manufacturing jobs based on real-time production constraints.
+
+**Key areas**
+
+- Production order scheduling
+- Machine compatibility
+- Machine health
+- Operator availability
+- Material availability
+- Queue management
+- Dynamic rescheduling
+- Scheduling validation
+- Optimization
+
+**Technology**
+
+`React` `TypeScript` `FastAPI` `Python` `Supabase`
+
+---
+
+### DAYFLOW HRMS
+
+A modern **Human Resource Management System** designed to manage employees, attendance, leave, payroll and organizational workflows.
+
+**Key areas**
+
+- Authentication
+- Employee management
+- Attendance
+- Check-in / Check-out
+- Leave requests
+- Leave approval
+- Payroll
+- Notifications
+- Analytics & reports
+
+**Technology**
+
+`React` `TypeScript` `FastAPI` `Python` `Supabase`
+
+---
+
+### STRIDE HABIT TRACKER
+
+A full-stack habit tracking platform focused on consistency, progress visualization and user engagement.
+
+**Features**
+
+- Habit categories
+- Daily check-ins
+- Streak tracking
+- Progress charts
+- Badges
+- Reminders
+- Dashboard
+- Profile management
+
+**Technology**
+
+`React` `JavaScript` `Python`
+
+---
+
+## CURRENTLY LEARNING
 
 ```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Data Processing
-        ├── Intelligent Systems
-        └── AI-powered Applications
-                 │
-                 ▼
-             Full Stack
-                 │
-        ┌────────┴────────┐
-        ▼                 ▼
-     Frontend           Backend
-     React              FastAPI
-     TypeScript         Python
-        │                 │
-        └────────┬────────┘
-                 ▼
-              Database
-             PostgreSQL
-              Supabase
-                 │
-                 ▼
-               DevOps
-              Docker
-           GitHub Actions
+Data Structures & Algorithms
+Machine Learning
+Deep Learning
+System Design
+Backend Architecture
+Docker
+DevOps
+Cloud Technologies
+Database Design
+Software Engineering
